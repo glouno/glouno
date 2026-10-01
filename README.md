@@ -2,9 +2,9 @@
 
 I build AI and personal software in Paris. Interested in retrieval, optimisation, human feedback, and tools that make life a little easier.
 
-- 🏭 **[RAGForge](https://ragforge.co)** — document-backed answers you can trace to their sources.
-- 🚀 **MissionControl** — a task runner for coding agents, with verification, review, and resumable work.
-- 🍀 **[Lucid](https://lucidlife.xyz)** — connecting the things you save, with their sources in view. In development.
-- 📆 **[ClearMyDay](https://github.com/glouno/clearMyDay)** — a cleaner Sorbonne timetable, in the calendar you already use.
+- 🏭 **[RAGForge](https://ragforge.co)** - document-backed answers you can trace to their sources.
+- 🚀 **MissionControl** - a task runner for coding agents, with verification, review, and resumable work.
+- 🍀 **[Lucid](https://lucidlife.xyz)** - connecting the things you save, with their sources in view. In development.
+- 📆 **[ClearMyDay](https://github.com/glouno/clearMyDay)** - a cleaner Sorbonne timetable, in the calendar you already use.
 
 [Website](https://paul.beglin.fr) · [LinkedIn](https://www.linkedin.com/in/paulbeglin/)
