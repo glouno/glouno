@@ -1,6 +1,6 @@
 # Hi, I’m Paul.
 
-I build AI and personal software in Paris. Interested in retrieval, optimisation, human feedback, and tools that make life a little easier.
+I build AI and personal software. Interested in retrieval, optimisation, human feedback, and tools that make life a little easier.
 
 - 🏭 **[RAGForge](https://ragforge.co)** - document-backed answers you can trace to their sources.
 - 🚀 **MissionControl** - a task runner for coding agents, with verification, review, and resumable work.
